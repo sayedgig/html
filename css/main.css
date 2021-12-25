@@ -150,15 +150,15 @@ body {
 }
 
 .slider .carousel-one {
-  background-image: url('../img/7.jpg')`url("https://via.placeholder.com/500")`
+  background-image: url('../img/7.jpg');
 }
 
 .slider .carousel-two {
-  background-image: url('../img/slider02.jpg')
+  background-image: url('../img/slider02.jpg');
 }
 
 .slider .carousel-three {
-  background-image: url('../img/10.jpg')
+  background-image: url('../img/10.jpg');
 }
 
 .slider .carousel-indicators li {
