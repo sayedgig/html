@@ -1,0 +1,23 @@
+
+ body {direction: rtl;}
+seo
+-------------------
+[page title]
+url
+META TAGS
+---->DESCRIPTION
+
+<meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=7; IE=EDGE" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="keywords" content="qatar borsa, qatar stocks, qatar exchange, trading, stock price, orders, stock account, live price, stock analysis, tadawul, stock chart, gulf investments group, securities, 44653030, 44411500,  44412500, 4470, mobile trading, Market Maker, margin trading, margin, live quotes, Technical analysis, DMA, ROR, Direct FIX Gateway , Stock report, Bonds, sukuk, بورصة, بورصة قطر, تداول, بث اسعار, اسعار الاسهم, السندات, الصكوك, التداول الالكترونى, فتح حساب بورصة, تحت التصفية الاختيارية ,تحليل فنى, مجموعة الاستثمارات الخليجية, الاسهم, المجوعة نت,  , التداول, رويتر" />
+<meta name="description" content="The Gulf Investments Group Provides online trading platform. Place buy and sell orders at any time. Watch the real-time market data feed under liquidity" />
+
+H1
+
+IMG - NAME ALT
+
+GTMATRIX
+GOOGLE SPEED TEST
+
