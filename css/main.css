@@ -150,7 +150,7 @@ body {
 }
 
 .slider .carousel-one {
-  background-image: url('../img/7.jpg')
+  background-image: url('../img/7.jpg')`url("https://via.placeholder.com/500")`
 }
 
 .slider .carousel-two {
