@@ -11,6 +11,14 @@ body {
   font-family: 'Cairo', sans-serif;
 }
 
+@media (max-width: 576px) {
+  .site-info {
+    display: none; 
+  }
+}
+.site-info {
+  display: none; 
+}
 /* Start Upper Bar */
 
 .upper-bar {
